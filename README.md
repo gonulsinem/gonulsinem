@@ -1,19 +1,18 @@
-```python
 class AboutMe:
     def __init__(self):
         self.name = "Gönül Sinem Özdoğan"
         self.title = "🤖 AI Engineer (MSc.)"
         self.languages = ["Python 🐍", "C++", "C#", "HTML/CSS"]
         self.tools = [
-          "PyTorch 🔥", 
-          "TensorFlow 📦", 
-          "TensorRT ⚡", 
-          "HuggingFace 🤗", 
-          "VSCode 📝", 
-          "Visual Studio 🛠️", 
-          "Edge Devices (Jetson, Raspberry Pi, etc.) 📟",
-          Git
-          ]
+            "PyTorch 🔥", 
+            "TensorFlow 📦", 
+            "TensorRT ⚡", 
+            "HuggingFace 🤗", 
+            "VSCode 📝", 
+            "Visual Studio 🛠️", 
+            "Edge Devices (Jetson, Raspberry Pi, etc.) 📟",
+            "Git 🌱"
+        ]
         self.interests = [
             "🤖 Machine Learning", 
             "🧠 Deep Learning", 
