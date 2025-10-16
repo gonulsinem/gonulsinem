@@ -48,9 +48,11 @@ me.say_hi()
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a>
-  <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo.svg" alt="open3d" width="40" height="40"/> </a>
-  <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" alt="TensorRT (NVIDIA)" width="40" height="40"/> </a>
-  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnx/onnx-icon.svg" alt="onnx" width="40" height="40"/> </a>
+  <a href="https.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a>
+  
+  <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo.svg?v=1" alt="open3d" width="40" height="40"/> </a>
+  <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg?v=1" alt="TensorRT (NVIDIA)" width="40" height="40"/> </a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_icon.png" alt="onnx" width="40" height="40"/> </a>
+  
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
