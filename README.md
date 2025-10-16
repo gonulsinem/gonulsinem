@@ -31,7 +31,6 @@ class AboutMe:
     def say_hi(self):
     
         print("Hey there! Thanks for visiting my GitHub 👋")
-        
         print("Feel free to explore my work and connect!")
 
 me = AboutMe()
