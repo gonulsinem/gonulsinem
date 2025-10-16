@@ -2,9 +2,7 @@ class AboutMe:
     def __init__(self):
     
         self.name = "Gönül Sinem Özdoğan"
-        
         self.title = "🤖 AI Engineer (MSc.)"
-        
         self.languages = ["Python 🐍", "C++", "C#", "HTML/CSS"]
         self.tools = [
             "PyTorch 🔥", 
