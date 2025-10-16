@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Gönül Sinem Özdoğan
+## 👋 Hi there, I'm Gönül Sinem
 
 ### 🤖 AI Engineer (MSc.)
 
