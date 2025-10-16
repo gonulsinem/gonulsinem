@@ -48,7 +48,6 @@ me.say_hi()
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/> </a>
-  <a href="https://www.open3d.org/" target="_blank" rel="noreferrer"> <img src="https://www.open3d.org/docs/latest/_static/open3d_logo.png" alt="open3d" width="40" height="40"/> </a>
   <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="TensorRT (NVIDIA)" width="40" height="40"/> </a>
   <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnx" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
