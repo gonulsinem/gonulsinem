@@ -1,8 +1,11 @@
 class AboutMe:
     def __init__(self):
         self.name = "Gönül Sinem Özdoğan"
+        
         self.title = "🤖 AI Engineer (MSc.)"
+        
         self.languages = ["Python 🐍", "C++", "C#", "HTML/CSS"]
+        
         self.tools = [
             "PyTorch 🔥", 
             "TensorFlow 📦", 
@@ -13,6 +16,7 @@ class AboutMe:
             "Edge Devices (Jetson, Raspberry Pi, etc.) 📟",
             "Git 🌱"
         ]
+        
         self.interests = [
             "🤖 Machine Learning", 
             "🧠 Deep Learning", 
@@ -21,11 +25,15 @@ class AboutMe:
             "📊 Data Science",
             "💻 Research"
         ]
+        
         self.current_focus = "Developing artificial intelligence models 🤖"
     
     def say_hi(self):
+    
         print("Hey there! Thanks for visiting my GitHub 👋")
+        
         print("Feel free to explore my work and connect!")
 
 me = AboutMe()
+
 me.say_hi()
