@@ -52,3 +52,12 @@ me.say_hi()
   <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnx" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
+
+
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alihanozdogan.alihanozdogan" alt="visitor badge"/>
+</p>
+
+---
