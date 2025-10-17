@@ -35,6 +35,7 @@ class AboutMe:
 me = AboutMe()
 me.say_hi()
 ```
+----
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -53,6 +54,7 @@ me.say_hi()
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
+---
 
 
 ### 👀 Visitor Count
