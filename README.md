@@ -1,6 +1,6 @@
 ## <h2 align="center">👋 Hi there, I'm Gönül Sinem</h2>
 
-### 🤖 AI Engineer (MSc.)
+### ## <h2 align="center">🤖 AI Engineer (MSc.)</h2>
 ---
 
 ```python
