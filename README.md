@@ -1,6 +1,7 @@
-## 👋 Hi there, I'm Gönül Sinem
+## <h2 align="center">👋 Hi there, I'm Gönül Sinem</h2>
 
 ### 🤖 AI Engineer (MSc.)
+---
 
 ```python
 class AboutMe:
